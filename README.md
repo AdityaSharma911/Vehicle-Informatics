@@ -1,4 +1,4 @@
-# Real Time Vechile Detection(Author: Diwas Pandey)
+# Real Time Vechile Detection (Developer: Diwas Pandey)
 
 This is a simple vehicle detection project using Computer Vision..
 
