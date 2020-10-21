@@ -10,7 +10,7 @@ when they cross a predefined limit. For the calculation of the object coordinate
 
 1. Just download the repository and unzip the file. <br>
 2. Run the python program named <b> <i>  "main.py" </i> </b> <br>
-3. Enjoy the Vechile Count Program
+3. Enjoy the Vehicle Count Program
 
 ![counting_vechile](https://user-images.githubusercontent.com/55270982/96702295-3e475980-13af-11eb-970a-986ddd88e73c.PNG)
 
