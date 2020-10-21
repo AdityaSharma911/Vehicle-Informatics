@@ -12,7 +12,7 @@ when they cross a predefined limit. For the calculation of the object coordinate
 2. Run the python program named <b> <i>  "main.py" </i> </b> <br>
 3. Enjoy the Vechile Count Program
 
-![counting_vechile](/uploads/68cce10dc77d121d476df63e4ee9475d/counting_vechile.PNG)
+![counting_vechile](https://user-images.githubusercontent.com/55270982/96702295-3e475980-13af-11eb-970a-986ddd88e73c.PNG)
 
 <h3>  Feel free to count real time Vechile. If you have a crazy idea, then pull request ☺ </h3>
 
